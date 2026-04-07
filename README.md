@@ -78,6 +78,8 @@ VTuber Interaction Output
 ### 1. Start the Emotion Server
 
 First, run the Flask emotion analysis server.
+(There is more file in google drive)
+https://drive.google.com/file/d/1gyJCjre2Kd95gOud_VcXLk9ICbbjGbC5/view?usp=share_link
 
 ```bash
 cd model

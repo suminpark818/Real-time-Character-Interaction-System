@@ -1,5 +1,0 @@
-cd d:/model
- python flask_emotion_server.py
-
-
-cd d:\model
